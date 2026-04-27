@@ -7,7 +7,7 @@ import google.generativeai as genai
 
 load_dotenv()
 
-#client = Anthropic()
+
 
 # ── CONFIG: Customize your categories & keywords here ──────
 NEWS_CATEGORIES = ["technology", "sports", "business", "health", "science", "entertainment", "general"]
