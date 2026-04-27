@@ -1,7 +1,6 @@
 import os, smtplib, requests
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from anthropic import Anthropic
 from dotenv import load_dotenv
 import google.generativeai as genai
 
